@@ -1,3 +1,3 @@
 # bim_calculator
 
-A new Flutter project.
+![First Screen](https://github.com/Moataz-Elgazzar/BIM-Calculator/raw/main/bim_calculator/FirstScreen.png)
